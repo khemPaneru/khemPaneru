@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Khem Raj Paneru 🇳🇵</h1>
+<h1 align="center">Hey there 👋, I'm Khem  Paneru</h1>
 <h3 align="center">Computer Systems & Networking Technician  | Tech Enthusiast | Problem Solver</h3>
 
 ---
