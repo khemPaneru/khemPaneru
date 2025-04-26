@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Khem Raj Paneru 🇳🇵</h1>
-<h3 align="center">Computer Systems & Networking Technician | Aspiring Network Engineer | Python Enthusiast</h3>
+<h3 align="center">Computer Systems & Networking Technician  | Tech Enthusiast | Problem Solver</h3>
 
 ---
 
