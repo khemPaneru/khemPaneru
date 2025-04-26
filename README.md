@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 My Socials:
+### 🌐 My Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemrajpaneru)  
 
 
