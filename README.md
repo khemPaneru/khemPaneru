@@ -20,12 +20,6 @@
 
 ---
 
-### 🌐 My Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemrajpaneru)  
-
-
----
-
 ### 💻 My Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
