@@ -1,49 +1,89 @@
-<h1 align="center">Hey there 👋, I'm Khem  Paneru</h1>
-<h3 align="center">Computer Systems & Networking Technician  | Tech Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Khem Raj Paneru</h1>
+<h3 align="center">IT Support / Helpdesk Technician | CompTIA A+ | Azure Certified | Networking Enthusiast</h3>
 
 ---
 
-### 🌟 About Me:
-🔭 Currently working on **CS50’s Introduction to Programming with Python**  
-🌱 Learning **CompTIA A+**,  and **Network Automation with Python**  
-💡 Passionate about automating networks and solving real-world challenges with technology  
-👯 Open to collaboration on **Python**, **Networking**, and **System Administration** projects  
-💬 Feel free to ask about **Networking**, **Python**, **Windows/Linux Server**, and **Cloud (Azure)**  
-⚡ Fun fact: I can troubleshoot routers faster than I boil noodles! 😄🛠️
+## 🚀 About Me
+🎓 Computer Systems & Networking Technician Student (Canadore College)  
+💻 CompTIA A+ Certified with hands-on IT support skills  
+☁️ Microsoft Certified: Azure Fundamentals  
+🐍 Completed Harvard’s CS50 Introduction to Programming with Python  
+
+🔧 I focus on **real-world IT skills** like troubleshooting, networking, and system administration.
 
 ---
 
-### 📫 Get in Touch:
-📧 Email: [khempaneru2@gmail.com](mailto:khempaneru2@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/khem-paneru-a59802327](https://www.linkedin.com/in/khem-paneru-a59802327/)  
-🐙 GitHub: [github.com/khemrajpaneru](https://github.com/khemrajpaneru)
+## 🛠️ Technical Skills
+
+**IT Support**
+- Hardware & software troubleshooting  
+- OS installation (Windows/Linux)  
+- Basic system administration concepts  
+
+**Networking**
+- Cisco Packet Tracer (VLANs, routing, switching)  
+- IP addressing & network troubleshooting  
+
+**Cloud**
+- Microsoft Azure (Virtual Machines, VNets, basic services)  
+
+**Tools**
+- Jira Service Management (Helpdesk simulation)  
+- Git & GitHub  
+
+**Programming**
+- Python (CLI tools, automation basics)  
 
 ---
 
-### 💻 My Tech Stack:
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Cisco Lab](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 📂 Featured Projects
 
+### 🔹 Python POS System (CS50 Final Project)
+- CLI-based billing system with input validation  
+👉 https://github.com/khemPaneru/python-pos-system  
 
 ---
 
+### 🔹 IT Helpdesk Jira Simulation
+- Simulated real-world IT support ticket system  
+- Managed incidents and service requests  
+👉 https://github.com/khemPaneru/IT-Helpdesk-Lab-Jira  
 
-### 🚀 Current Projects:
-- 📘 Final project for **CS50 Python**
-- 🧠 Preparing for **CompTIA A+**
-- 🧰 Setting up my **Home Lab** for server and network practice
+---
+
+### 🔹 Azure IoT Hub Project
+- Connected simulated device to Azure IoT Hub  
+- Demonstrates cloud integration  
+👉 https://github.com/khemPaneru/Azure-IoT-Hub-Project  
 
 ---
 
-### 🏆 Notable Achievements:
-- ✅ Completed **Harvard CS50 Python** (still ongoing)
-- 🧩 Solving **Python** & **Networking** challenges every day
+### 🔹 CCNA Networking Labs
+- VLANs, routing, switching using Cisco Packet Tracer  
+👉 https://github.com/khemPaneru/CCNA-Project  
 
 ---
+
+## 🏆 Certifications
+
+- ✅ CompTIA A+  
+- ✅ Microsoft Certified: Azure Fundamentals  
+- ✅ Career Essentials in System Administration (Microsoft)  
+- ✅ Computer Hardware Basics (Cisco)  
+- ✅ CS50’s Introduction to Programming with Python (Harvard)  
+
+---
+
+## 🎯 Career Goal
+Seeking **IT Helpdesk / IT Support / Junior System Administrator / Junior Network Technician roles** where I can apply my skills in troubleshooting, networking, and cloud technologies.
+
+---
+
+## 📫 Connect With Me
+📧 Email: khempaneru2@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/khem-paneru-a59802327/  
+🐙 GitHub: https://github.com/khemPaneru  
+
+---
+
+⚡ Fun fact: I enjoy troubleshooting systems and fixing tech issues faster than I finish my coffee ☕
