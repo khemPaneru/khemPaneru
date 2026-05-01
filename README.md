@@ -1,10 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Khem Raj Paneru</h1>
-<h3 align="center">💻 IT Support / Helpdesk Technician | ☁️ Azure Certified | 🌐 Networking Enthusiast</h3>
+<h3 align="center">💻 IT Support / Helpdesk Technician | ☁️ Azure Certified | 💻 CompTIA A+ Certified | 🌐 Networking Enthusiast</h3>
 
 ---
 
 ### 🌟 About Me:
-🎓 Studying **Computer Systems & Networking Technician** at Canadore College  
+🎓 Completed **Computer Systems & Networking Technician** at Canadore College  
 💻 **CompTIA A+ Certified** with hands-on IT support and troubleshooting skills  
 ☁️ **Microsoft Certified: Azure Fundamentals**  
 🐍 Completed **Harvard CS50’s Introduction to Programming with Python**  
