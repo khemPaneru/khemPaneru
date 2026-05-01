@@ -1,17 +1,18 @@
 <h1 align="center">Hey there 👋, I'm Khem Raj Paneru</h1>
-<h3 align="center">💻 IT Support / Helpdesk Technician | ☁️ Azure Certified | 💻 CompTIA A+ Certified | 🌐 Networking Enthusiast</h3>
+<h3 align="center">💻 IT Support / Helpdesk Technician | ☁️ Azure Certified | 🖥️ CompTIA A+ Certified | 🌐 Networking Enthusiast</h3>
 
 ---
 
 ### 🌟 About Me:
+
 🎓 Completed **Computer Systems & Networking Technician** at Canadore College  
 💻 **CompTIA A+ Certified** with hands-on IT support and troubleshooting skills  
 ☁️ **Microsoft Certified: Azure Fundamentals**  
 🐍 Completed **Harvard CS50’s Introduction to Programming with Python**  
-🔧 Passionate about solving tech issues, building labs, and learning real-world systems  
-👯 Open to collaboration on **IT Support, Networking, Python, and System Admin** projects  
-💬 Feel free to ask about **Helpdesk, Networking, Windows/Linux, Azure, and Python**  
-⚡ Fun fact: I troubleshoot systems faster than I finish my coffee ☕  
+
+🔧 I enjoy solving technical issues, building labs, and learning how systems work in real environments.  
+📚 Currently focused on growing my skills in **IT Support, Networking, System Administration, and Cloud**.  
+🤝 Open to collaboration, learning opportunities, and entry-level IT roles.  
 
 ---
 
@@ -20,6 +21,7 @@
 💻 **IT Support**
 - Hardware & software troubleshooting  
 - Windows / Linux installation & setup  
+- Printer, peripheral, and user support  
 - Basic system administration concepts  
 
 🌐 **Networking**
@@ -34,12 +36,13 @@
 🧰 **Tools**
 - Jira Service Management  
 - Git & GitHub  
-- Microsoft Office / Remote Support tools  
+- Microsoft Office  
+- Remote support tools  
 
 🐍 **Programming**
-- Python CLI tools  
-- Automation basics  
-- Problem-solving scripts  
+- Python fundamentals  
+- CLI tools  
+- Basic automation scripts  
 
 ---
 
@@ -50,15 +53,15 @@
 👉 https://github.com/khemPaneru/python-pos-system  
 
 🔹 **IT Helpdesk Jira Simulation**  
-🎫 Simulated real-world ticketing system with incidents & service requests  
+🎫 Simulated real-world IT support ticketing system using Jira  
 👉 https://github.com/khemPaneru/IT-Helpdesk-Lab-Jira  
 
 🔹 **Azure IoT Hub Project**  
-☁️ Connected simulated device to Azure IoT Hub  
+☁️ Connected a simulated device to Azure IoT Hub  
 👉 https://github.com/khemPaneru/Azure-IoT-Hub-Project  
 
 🔹 **CCNA Networking Labs**  
-🌐 VLANs, routing, switching using Cisco Packet Tracer  
+🌐 Hands-on labs for switching, routing, and troubleshooting  
 👉 https://github.com/khemPaneru/CCNA-Project  
 
 ---
@@ -75,14 +78,14 @@
 
 ### 🎯 Career Goal:
 
-🚀 Seeking opportunities in:
+Currently seeking opportunities in:
 
 - IT Helpdesk  
 - IT Support  
 - Junior System Administrator  
 - Junior Network Technician  
 
-Where I can apply my skills in troubleshooting, networking, and cloud technologies.
+Where I can contribute, continue learning, and grow long-term in the IT field.
 
 ---
 
@@ -94,4 +97,4 @@ Where I can apply my skills in troubleshooting, networking, and cloud technologi
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+⭐ Always learning, always improving, and always ready for the next challenge.
