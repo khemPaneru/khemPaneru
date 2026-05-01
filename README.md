@@ -27,16 +27,16 @@
 ### 🚀 Featured Projects
 
 🔹 **IT Helpdesk Jira Simulation**  
-👉 <PRIVATE_URL>
+👉 https://github.com/khemPaneru/IT-Helpdesk-Lab-Jira
 
 🔹 **Python POS System (CS50 Final Project)**  
-👉 <PRIVATE_URL>
+👉 https://github.com/khemPaneru/python-pos-system
 
 🔹 **Azure IoT Hub Project**  
-👉 <PRIVATE_URL>
+👉 https://github.com/khemPaneru/Azure-IoT-Hub-Project
 
 🔹 **CCNA Networking Labs**  
-👉 <PRIVATE_URL>
+👉 https://github.com/khemPaneru/CCNA-Project
 
 ---
 
